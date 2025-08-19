@@ -1,0 +1,42 @@
+.wrap-container {
+    display: flex;
+    margin-top: 70px;
+    justify-content: center;
+}
+.contactus-container{
+    background-color: #1f1f1f;
+    color: white;
+    height: 500px;
+    font-family: "RalewayRegular";
+    width: 600px;
+    border-radius: 20px;
+}
+.contact-flex {
+    padding-top: 100px;
+    display: flex;
+    margin: 10px;
+    align-items: center;
+    justify-content: center;
+}
+.contact-name {
+    /* padding-top: 20px; */
+    font-family: "RalewayRegular";
+    font-size: 25px;
+}
+.address-container {
+    flex-wrap: wrap;
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly ;
+}
+.mail-name {
+    padding-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+
+    justify-content: space-evenly;
+}
+p > a {
+    text-decoration: none;
+    color: green;
+}

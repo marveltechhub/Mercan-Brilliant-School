@@ -1,0 +1,101 @@
+.variety-heading {
+    padding-left: 20px;
+}
+.variety-heading-hr {
+    width: 380px;
+    border: none;
+    height:  8px;
+    margin-left: 20px;
+    background-color: #EB5B00;
+    border-radius: 20px;
+}
+.variety-heading-hr:hover {
+    width:650px ;
+    /* height: 15px; */
+
+    background-color: #090040;
+}
+.variety-image-container {
+    margin-top: 20px;
+display: flex;
+justify-content: space-evenly;
+align-items: center;
+flex-wrap: wrap;
+/* gap: 50px; */
+margin-right: 6px;
+/* padding: 12px; */
+margin-left: 6px;
+word-wrap: break-word;
+position: relative;
+}
+.variety-image-container img {
+
+    display: block;
+    width: 100%;
+    height: 350px;
+}
+.variety-image-container img:hover {
+    height: 500px;
+}
+.variety-image-container  h1 {
+  font-family: 'RalewayRegular';
+  font-size: 30px;
+  color: black;
+ text-align: center;
+ /* display: flex; */
+
+}
+.alumni-comment-container{
+    display: flex;
+    /* gap: 50px; */
+    justify-content: space-around;
+    align-items: center;
+    /* flex-wrap: wrap; */
+/* padding: 17px 20px; */
+    /* justify-content: space-between; */
+    /* flex-wrap: wrap; */
+    /* margin: 20px; */
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 20px;
+
+}
+.text-alumni{
+    margin-left: 50px;
+    font-size: 30px;
+    word-wrap: break-word;
+    /* height: 200px; */
+    /* overflow-y: auto; */
+    font-family: 'RalewayBold';
+    /* padding: 10px; */
+}
+
+.alumni-comment-container img {
+    height: 350px;
+    width: 300px;
+    border-radius: 350px;
+
+}
+.alumni-comment-container p {
+    font-family: "RalewayRegular";
+    overflow-y: auto;
+    font-size: 20px;
+    /* height: 200px; */
+    /* padding: 10px; */
+    line-height: 2;
+}
+.alumni-comment-container h3 {
+    font-family: 'RalewayBold';
+    font-size: 28px;
+}
+.individual-frame {
+    display: flex;
+    justify-content: center;
+    background-color:  #09122C;
+    height: 350px;
+    width: 380px;
+}
+.alumni-comment-container h3 p  {
+/* margin-left: 20px; */
+display: flex;
+}

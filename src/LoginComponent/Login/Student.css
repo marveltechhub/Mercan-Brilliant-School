@@ -1,0 +1,38 @@
+.student-container-form {
+    /* margin-top: 60px; */
+    display: flex;
+    align-items: center;
+    padding-top: 20px;
+    /* margin-left: 180px; */
+}
+.student-container-form img {
+    height: 40px;
+}
+.student-container-form input {
+    height: 40px;
+    width:310px;
+    font-family: "RalewayRegular";
+    text-align: right;
+    background-color: white;
+}
+.btn-container {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+.btn-container button {
+    border: none;
+    width: 350px;
+    height: 35px;
+    font-family: "RalewayBold";
+    border-radius: 10px;
+}
+.copyright-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+.copyright-container p {
+    font-family: "RalewayRegular";
+    font-size: 18px;
+}

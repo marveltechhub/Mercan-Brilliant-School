@@ -1,0 +1,77 @@
+.footer-container {
+    background-color: #1f1f1f;
+/* color: #e48181; */
+/* display: flex; */
+/* align-items: center; */
+flex-wrap: wrap;
+/* justify-content:space-between; */
+height:270px;
+display: flex;
+justify-content: space-between;
+/* gap: 20rem; */
+align-items: center;
+}
+.newsletter {
+
+}
+.newsletter-text {
+    color: white;
+    font-family: "RalewayRegular";
+    font-size: 35px;
+    padding-top: 20px;
+    padding-left: 20px;
+    display: flex;
+}
+.italic-newsletter-text{
+    background-color: #1f1f1f;
+    color: white;
+    padding-left: 15px;
+    margin-top: 8px;
+}
+.contact-us{
+    margin-left: 20px;
+}
+.contact-text {
+
+    color: white;
+    font-size: 33px;
+    font-family: "RalewayRegular";
+}
+.phone-flex{
+    display: flex;
+    align-items: center;
+    gap: 22px;
+}
+.phone-flex img {
+    height: 30px;
+}
+.phone-flex a {
+    text-decoration: none;
+    color: white;
+}
+.mail-flex {
+display: flex;
+align-items: center;
+gap: 22px;
+flex-wrap: wrap;
+}
+.mail-flex img {
+    height: 30px;
+}
+.mail-flex a {
+    text-decoration: none;
+    color: white;
+    
+}
+.location-gps{
+display: flex;
+align-items: center;
+gap: 22px;
+}
+.location-gps img {
+    height: 40px;
+}
+.location-gps a {
+    color: white;
+    text-decoration: none;
+}

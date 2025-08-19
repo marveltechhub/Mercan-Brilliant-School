@@ -1,0 +1,60 @@
+.enrollpage-container {
+    /* margin-top: s00px; */
+    background: #273F4F;
+height: 750px;
+}
+.enroll-container {
+    padding: 100px;
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+.top {
+    padding-top: 80px;
+}
+.circle-frame {
+    padding-top: 100px;
+    background-color: white;
+    height: 400px;
+    width: 400px;
+    /* margin-left: 500px; */
+    /* display: flex; */
+/* justify-content: center; */
+    border-radius: 500px;
+
+}
+.heading-text {
+    text-align: center;
+    font-family: "WinkyRegular";
+    font-size: 28px;
+    flex-wrap: wrap;
+    /* width: 200px; */
+}
+/* Text within frame */
+.text-withinframe {
+    text-align: center;
+    font-family: "RalewayRegular";
+}
+
+.header-rule-e {
+    height: 5px;
+    display: flex;
+    justify-content: center;
+    width: 380px;
+    border: none;
+    margin: 20px;
+    background-color: #EB5B00;
+}
+.phone-number {
+    margin-top: 20px;
+}
+.phone-number > p > a {
+    text-decoration: none;
+    color: green;
+}
+.italic-enroll {
+    width: 20px;
+    text-align: center;
+    font-family: "WinkyMedium";
+    font-size: 16px;
+}

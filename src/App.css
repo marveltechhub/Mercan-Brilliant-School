@@ -1,0 +1,29 @@
+body{
+  font-family: sans-serif;
+  /* color: black;
+ background */
+  /* background-image: url('./../src/assets/study.jpg'); */
+  /* background-repeat: no-repeat; */
+  /* background-size: cover; */
+  background: linear-gradient(-45deg, #e8f5e9, #ffffff, #f1f8e9, #e0f2f1);
+  /* background-repeat: no-repeat; */
+  /* margin: 0; */
+  /* padding: 0; */
+  /* background-size: 400% 400%; */
+  animation: gradientMove 15s ease infinite;
+  color: #1a1a1a;
+  flex-wrap: wrap;
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html, body{
+  width: 100%;
+  overflow-x: hidden;
+  font-family: sans-serif;
+}
+#root{
+  width: 100%;
+}

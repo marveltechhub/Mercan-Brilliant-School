@@ -1,0 +1,61 @@
+.login-container {
+    margin-top: 80px;
+}
+.login-container h1 {
+    margin-left: 30px;
+}
+.login-bg {
+    background-color: #320A6B;
+    height: 500px;
+    border-radius: 20px;
+    margin: 20px;
+}
+h1 {
+    font-family: "RalewayBold";
+}
+.login-text {
+    text-align: center;
+    color: white;
+    font-family: "RalewayRegular";
+    padding-top: 30px;
+    font-size: 28px;
+}
+.sch-container {
+    display: flex;
+    
+    gap: 8px;
+    justify-content: center;
+    margin: 20px;
+    padding-top: 20px;
+}
+.sch-container img {
+    border-radius: 20px;
+    height: 100px;
+    
+}
+/* Division Class */
+.div-header {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    color: white;
+    font-family: "RalewaySemi";
+}
+/*  As Student Login Container */
+.student-login-container{
+
+}
+/* As Student Link Text */
+.student-login-container a {
+    text-decoration: none;
+    color: white;
+}
+/* As Staff Login Container */
+.staff-login-container {
+
+}
+/* As Staff Link Text */
+.staff-login-container a {
+    text-decoration: none;
+    color:  white ;
+}

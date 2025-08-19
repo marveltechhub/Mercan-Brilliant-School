@@ -1,0 +1,88 @@
+.management-container {
+
+}
+.management-container h1 {
+    padding-left: 20px;
+}
+.management-container-hr {
+    background-color: #EB5B00;
+    border: none;
+    height: 10px;
+    width: 300px;
+    margin-left: 20px;
+}
+.management-container-hr:hover{
+    width: 400px;
+    background-color: #090040;
+}
+.profile-container {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    flex-wrap: wrap;
+}
+.profile-admin{
+    background-color: #090040;
+    /* display: flex; */
+    height: 300px;
+    justify-content: center;
+    width: 320px;
+    border-radius: 20PX;
+}
+.profile-admin h2 {
+    color: white;
+    font-family: 'RalewayIt';
+    /* padding-right: 30px; */
+    text-align: center;
+}
+.profile-admin h1 {
+    color: white;
+    /* font-family: 'RalewayIt'; */
+    /* padding-left: 30px; */
+    text-align: center;
+    font-family: 'RalewayThin';
+    margin-right: 8px;
+    margin-left: 8px;
+    flex-wrap: wrap;
+    word-wrap: break-word;
+    font-family: "RalewayRegular";
+    font-size: 30px;
+}
+.profile-admin img {
+    height: 120px;
+    width:120px;
+    /* display: flex; */
+    margin-left: 100px;
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* margin-left: 70px; */
+    margin-top: 20px;
+    border-radius: 200px;
+}
+.profile-admin-text {
+    /* height: 30px; */
+    /* overflow-y: auto; */
+    display: flex;
+    text-align: center;
+    flex-wrap: wrap;
+    color: white;
+    justify-content: center;
+    gap: 20px;
+    
+}
+.profile-admin-text button {
+    border: none;
+width: 90px;
+margin-bottom: 2px;
+border-radius: 5px;
+margin-top: 8px;
+height: 30px;
+}
+.profile-admin-text button > a {
+    text-decoration: none;
+    font-family: "RalewayRegular";
+color: black;
+}
+.profile-admin-text::-webkit-scrollbar {
+    display: none;
+}

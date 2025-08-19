@@ -1,0 +1,42 @@
+.section-nav{
+/* margin: 1px; */
+/* display: flex; */
+width: 100%;
+flex-wrap: wrap;
+margin-top: 50px;
+}
+.section-nav-text{
+    font-family: 'RalewaySemi';
+    /* padding: 10px; */
+    word-wrap: break-word;
+    flex-wrap: wrap;
+   padding-left: 20px;
+}
+.image-wrapper-serv{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.image-wrapper-serv{
+    /* height: 20px;
+    width: 10px; */
+}
+.p-p {
+    font-family: 'RalewayRegular';
+    line-height: 1.6;
+    font-size: 18px;
+}
+.opposite-text{
+   padding-right: 60px;
+    margin-left: 20px;
+    font-family: 'RalewaySemi';
+}
+/* inverted  quote */
+.b-1{
+    font-size: 50px;
+}
+.alumni{
+    font-family: 'RalewayRegular';
+}

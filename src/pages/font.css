@@ -1,0 +1,96 @@
+@font-face {
+    font-family: "Winky";
+    src: url('./../assets/static/WinkyRough-Black.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "WinkyBold";
+    src: url('./../assets/static/WinkyRough-Bold.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "WinkyRegular";
+    src: url('./../assets/static/WinkyRough-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "WinkySemiBold";
+    src: url('./../assets/static/WinkyRough-SemiBold.ttf.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "MonoBold";
+    src: url('./../assets/mono/IntelOneMono-Bold.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "MonoBold";
+    src: url('./../assets/mono/IntelOneMono-Bold.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "MonoRegular";
+    src: url('./../assets/mono/IntelOneMono-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "MonoSemiBold";
+    src: url('./../assets/mono/IntelOneMono-SemiBold.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "RalewayBlack";
+    src: url('./../assets/static/Raleway-Black.ttf');
+}
+@font-face {
+    font-family: 'RalewayBold';
+    src: url('./../assets/static/Raleway-Bold.ttf');
+}
+@font-face {
+    font-family: 'RalewayLight';
+    src: url('./../assets/static/Raleway-Light.ttf.ttf');
+}
+@font-face {
+    font-family: 'RalewayRegular';
+    src: url('./../assets/static/Raleway-Regular.ttf');
+}
+@font-face {
+    font-family: 'RalewayMedium';
+    src: url('./../assets/static/Raleway-Medium.ttf.ttf');
+}
+@font-face {
+    font-family: 'RalewayThin';
+    src: url('./../assets/static/Raleway-Thin.ttf.ttf');
+}
+@font-face {
+    font-family: 'RalewaySemi';
+    src: url('./../assets/static/Raleway-SemiBold.ttf');
+}
+@font-face {
+    font-family: 'RalewayIt';
+    src: url('./../assets/it/Raleway-Italic.ttf');
+}
+@font-face {
+    font-family: 'RalewayBlackIt';
+    src: url('./../assets/it/Raleway-BlackItalic.ttf');
+}
+@font-face {
+    font-family: 'RalewayBoldIt';
+    src: url('./../assets/it/Raleway-BoldItalic.ttf');
+}
+@font-face {
+    font-family: 'RalewayMit';
+    src: url('./../assets/it/Raleway-MediumItalic.ttf');
+}
+@font-face {
+    font-family: 'Ralewaysit';
+    src: url('./../assets/it/Raleway-SemiBoldItalic.ttf');
+}
