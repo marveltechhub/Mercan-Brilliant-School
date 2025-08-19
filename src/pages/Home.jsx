@@ -1,24 +1,24 @@
-import React from 'react'
-import { useEffect, useState } from 'react'
-import './Home.css'
-import Slider from './slider.jsx'
-import './font.css'
-import { Link } from 'react-router-dom'
-import Admission from './Admission.jsx'
-import logo from './../assets/logo1.png'
-import first from './../assets/first.jpg'
-import second from './../assets/second.jpg'
-import third from './../assets/third.jpg'
-import fourth from './../assets/fourth.jpg'
-import fifth from './../assets/fifth.jpg'
-import sixth from './../assets/sixth.jpg'
-import seventh from './../assets/seventh.jpg'
-import image1 from './../assets/image1.jpg'
-import image2 from './../assets/image2.jpg'
-import dream1 from './../assets/dream.jpg'
-import { Pencil } from 'lucide-react'
-import TypeWriter from './TypeWriter.jsx'
-import Management from './Management'
+import React from 'react';
+import { useEffect, useState } from 'react';
+import './Home.css';
+import Slider from './slider.jsx';
+import './font.css';
+import { Link } from 'react-router-dom';
+import Admission from './Admission.jsx';
+import logo from './../assets/logo1.png';
+import first from './../assets/first.jpg';
+import second from './../assets/second.jpg';
+import third from './../assets/third.jpg';
+import fourth from './../assets/fourth.jpg';
+import fifth from './../assets/fifth.jpg';
+import sixth from './../assets/sixth.jpg';
+import seventh from './../assets/seventh.jpg';
+import image1 from './../assets/image1.jpg';
+import image2 from './../assets/image2.jpg';
+import dream1 from './../assets/dream.jpg';
+import { Pencil } from 'lucide-react';
+import TypeWriter from './TypeWriter.jsx';
+import Management from './Management';
 
 
 const Home = () => {
